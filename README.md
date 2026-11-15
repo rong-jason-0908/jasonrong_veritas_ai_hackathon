@@ -1,3 +1,7 @@
+# Proofpoint
+
+Fact-check health claims against PubMed.
+
 # Veritas demo
 
 ## 1. Put the model files here
