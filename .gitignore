@@ -1,0 +1,8 @@
+veritas/
+ckpt*/
+*.safetensors
+*.npy
+*.parquet
+*.joblib
+*.bin
+.ipynb_checkpoints/
