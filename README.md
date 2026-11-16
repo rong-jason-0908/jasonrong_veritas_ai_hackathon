@@ -11,8 +11,11 @@ The model takes some time to work. theres no loading animation once you click th
 ## 1. Get the model files
 The models are too large for GitHub (about 1.7 GB). Download from my kaggle: https://www.kaggle.com/datasets/rongjason/veritas
 
+DOWNLOADS:
+download veritas_demo.ipynb from this github page
+download the other 3 the kaggle link  - retrieval, verdict_model_v3, claim_detector_v2
 
-Put them in this layout:
+Put them in this layout in your folders:
 
 ```
 some-folder/
