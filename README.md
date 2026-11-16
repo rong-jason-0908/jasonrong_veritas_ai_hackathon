@@ -5,7 +5,8 @@ Fact-check health claims against PubMed. Paste a video transcript or YouTube lin
 Video transcript function is a little wonky right now. For better testing, just write your own health claim and see the results.
 
 ## 1. Get the model files
-The models are too large for GitHub (about 1.7 GB). Download them here: **[ADD LINK]**
+The models are too large for GitHub (about 1.7 GB). Download from my kaggle: https://www.kaggle.com/datasets/rongjason/veritas/settings
+
 
 Put them in this layout:
 
