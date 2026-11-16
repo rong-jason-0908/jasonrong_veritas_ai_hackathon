@@ -2,7 +2,11 @@
 
 Fact-check health claims against PubMed. Paste a video transcript or YouTube link, and Proofpoint finds the health claims, searches the research, and shows whether the evidence supports, contradicts, or can't settle each one. A research aid, not medical advice.
 
+
+WARNINGS!!!
 Video transcript function is a little wonky right now (yt link fetcher fails). For better testing, just write your own health claim and see the results.
+The model takes some time to work. theres no loading animation once you click the big orange button on the gradio, but its working there. (probably.) takes maybe ~30 seconds
+
 
 ## 1. Get the model files
 The models are too large for GitHub (about 1.7 GB). Download from my kaggle: https://www.kaggle.com/datasets/rongjason/veritas
